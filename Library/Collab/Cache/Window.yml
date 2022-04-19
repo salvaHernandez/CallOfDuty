@@ -1,0 +1,51 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &1
+MonoBehaviour:
+  m_ObjectHideFlags: 61
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ffe70aba2e7074048aca5de573b64a59, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  SimpleSelectedItems:
+    m_Keys:
+    - Assets/Prefabs/BulletHolePref.prefab
+    - Assets/Prefabs/BulletHolePref.prefab.meta
+    - Assets/Prefabs/Italian machine guns 1.prefab
+    - Assets/Prefabs/Pistol.prefab
+    - Assets/Prefabs/granada.anim
+    - Assets/Prefabs/granada.anim.meta
+    - Assets/Prefabs/grenade.prefab
+    - Assets/Prefabs/grenade.prefab.meta
+    - Assets/Prefabs/zombieRun.prefab
+    - Assets/RPG_FPS_game_assets_industrial/Map_v1.unity
+    - Assets/Scenes/Menu.unity
+    - Assets/Scenes/Menu.unity.meta
+    - Assets/Scenes/SampleScene.unity
+    - Assets/Scripts/ControlMenu.cs
+    - Assets/Scripts/ControlMenu.cs.meta
+    - Assets/Scripts/Granada.cs
+    - Assets/Scripts/Granada.cs.meta
+    - Assets/Scripts/PlayerController.cs
+    - Assets/Scripts/PlayerWeaponController.cs
+    - Assets/Scripts/WeaponController.cs
+    - Assets/Scripts/ZombieController.cs
+    - Assets/Textures.meta
+    - Assets/Textures/descarga.png
+    - Assets/Textures/descarga.png.meta
+    - Assets/UI/fotoMenu.png
+    - Assets/UI/fotoMenu.png.meta
+    - Assets/Zombie/Animations/zombieRun.controller
+    - ProjectSettings/EditorBuildSettings.asset
+    - 
+    m_Values: 0101010101010101010101010101010101010101010101010101010101
+  RevisionSummary: 
+  ChangesSearchValue: 
+  SelectedHistoryRevision: 
+  HistoryPageNumber: 0
+  TabIndex: 0
